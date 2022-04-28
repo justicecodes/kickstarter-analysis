@@ -7,7 +7,8 @@
 ---
 ## Analysis and Challenges
 #### First, the Kickstarter data needed to be amended to include readable dates and separate the categories and subcategories of the campaigns so that  plays could be studied specifically. We color coded whether each campaign succeeded, failed or was canceled and added a color scale to easily visualize how successful each campaign was by the percent of expected funding received. 
-<img width="1270" alt="kickstarter_new_columns" src="https://user-images.githubusercontent.com/103595718/165820131-8b39686c-8d12-46bd-8a7c-714075d1fcd5.png"> 
+<img width="1000" alt="kickstarter_new_columns" src="https://user-images.githubusercontent.com/103595718/165821518-b681f8ac-89d3-4dd6-9087-53d264de5f1a.png">
+
 ---
 #### From these additions, charts were created to show an overall comparison of plays to other categories - there were many more plays and theater related campaigns than any other type. 
 ![Subcat](https://user-images.githubusercontent.com/103595718/165820655-72dabb77-4e43-4c80-86d1-ac39955a964f.png)
