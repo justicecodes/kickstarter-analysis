@@ -10,8 +10,12 @@
 <img width="1000" alt="kickstarter_new_columns" src="https://user-images.githubusercontent.com/103595718/165821518-b681f8ac-89d3-4dd6-9087-53d264de5f1a.png">
 
 ---
-#### From these additions, charts were created to show an overall comparison of plays to other categories - there were many more plays and theater related campaigns than any other type. 
-![Subcat](https://user-images.githubusercontent.com/103595718/165820655-72dabb77-4e43-4c80-86d1-ac39955a964f.png)
+#### From these additions, charts were created to show an overall comparison of plays to other categories - there were many more plays and theater related campaigns than any other type. Music was another successful category; additional analysis could be done on this category to understand why, or to compare successful categories to others that usually failed. 
+
+![Categories](https://user-images.githubusercontent.com/103595718/165827620-b36a39ea-a801-4ce4-a2ac-d29fb527a685.png)
+![Subcat](https://user-images.githubusercontent.com/103595718/165828133-0bbb8af0-73bf-43ef-9c8c-addfe3fabe23.png)
+
+#### After the overall analysis of categories, the focus of the study was shifted to only examine plays. 
 ---
 
 
@@ -32,5 +36,5 @@ Explain how you performed your analysis using images and links to code, as well 
 
 
 [![OutcomesofLaunchDate](https://user-images.githubusercontent.com/103595718/165401239-1829f419-9ef9-4ed2-a159-e63be83f636a.png)
-![Categories](https://user-images.githubusercontent.com/103595718/165401315-f4d92609-ff2d-4b1a-845d-2aeeb6ae380a.png)
+
 
